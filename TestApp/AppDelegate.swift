@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  TestApp
 //
-//  Created by Admin on 23/03/18.
-//  Copyright © 2018 Admin. All rights reserved.
+//  Created by Rohini on 23/03/18.
+//  Copyright © 2018 Rohini. All rights reserved.
 //
 
 import UIKit
